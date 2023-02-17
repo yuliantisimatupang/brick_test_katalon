@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_login_Failed_Brick</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daafe4c0-6119-407b-b726-20b1e55fb946</testCaseGuid>
+</TestCaseEntity>

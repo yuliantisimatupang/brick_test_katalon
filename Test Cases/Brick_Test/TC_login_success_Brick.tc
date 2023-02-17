@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_login_success_Brick</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce535902-daa2-4c6b-a9e1-5718e8934dae</testCaseGuid>
+</TestCaseEntity>
